@@ -1,0 +1,10 @@
+#!/bin/bash
+mvn clean package
+
+param=\"abcd\"
+
+printf "Expected: "
+java -cp target/classes/ -Dtest=$param  demo.App
+
+printf "Actual: "
+mvn -q exec:java -Dexec.mainClass=demo.App -Dtest=$param
