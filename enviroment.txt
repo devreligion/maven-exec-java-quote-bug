@@ -1,0 +1,6 @@
+Apache Maven 3.0.4
+Maven home: /usr/share/maven
+Java version: 1.7.0_25, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "3.2.0-51-generic", arch: "amd64", family: "unix"
