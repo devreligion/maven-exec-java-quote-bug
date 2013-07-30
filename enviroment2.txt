@@ -1,0 +1,6 @@
+Apache Maven 3.1.0 (893ca28a1da9d5f51ac03827af98bb730128f9f2; 2013-06-28 06:15:32+0400)
+Maven home: /home/nemo/apache-maven-3.1.0
+Java version: 1.7.0_25, vendor: Oracle Corporation
+Java home: /usr/lib/jvm/java-7-oracle/jre
+Default locale: en_US, platform encoding: UTF-8
+OS name: "linux", version: "3.2.0-51-generic", arch: "amd64", family: "unix"
